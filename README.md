@@ -11,7 +11,7 @@ https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip
 http://rpubs.com/ascoolguy66/n-grams-nlp
 
 #### A slide deck created with R Studio Presenter :
-https://veeranalytics.shinyapps.io/NGramsApp/
+http://rpubs.com/ascoolguy66/NGrams
 
 #### The application can be accessed at:
 https://veeranalytics.shinyapps.io/NGramsApp/
