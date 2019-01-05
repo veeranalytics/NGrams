@@ -1,0 +1,13 @@
+name: NGramsApp
+title: NGramsApp
+username:
+account: ascoolguy66
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 627295
+bundleId: 1797814
+url: https://veeranalytics.shinyapps.io/NGramsApp/
+when: 1546684043.89996
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: NGrams_Project.R|README.md
